@@ -1,10 +1,9 @@
-
 body {
-    font-family: Courier, sans-serif;
+    font-family: 'Segoe UI', sans-serif;
     text-align: center;
     color: white;
     font-size: 32px;
-    background-color: #032541;
+    background-color: #A7C6ED; /* Легкий синій */
 }
 
 input {
